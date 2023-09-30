@@ -1,0 +1,28 @@
+[
+  {
+    "id ": 1,
+    "Title": " How to create first web page",
+    "Description": "This is my first blog",
+    "Content": "Create your first web page by planning content, writing HTML, saving as .html, and opening in a browser. Optionally, add CSS for style and publish on a web server.",
+    "author": "Sai",
+    "publisheDate": " august 2015 "
+  },
+
+  {
+    "id ": 2,
+    "Title": " How to create first web page",
+    "Description": "This is my first blog",
+    "Content": "we will Learn console.log  and will use it for print  hello world",
+    "author": " Christian",
+    "publisheDate": " june 2015 "
+  },
+
+  {
+    "id ": 3,
+    "Title": " How to Setups Routers in react ?",
+    "Description": "This is my third blog",
+    "Content": "To set up routing in a React application, use the react-router-dom library. First, install it, then wrap your app in a <Router>. Define routes with the <Route> component, specifying paths and components to display. Create separate components for each route. Use the Link component for navigation. Optionally, add a 404 Not Found route. This enables users to access different views based on the URL path and navigate between them easily.",
+    "author": "  Smith",
+    "publisheDate": "january 2015 "
+  }
+]
