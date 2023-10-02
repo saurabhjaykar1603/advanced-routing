@@ -1,3 +1,14 @@
 .pre-post-card{
     cursor:pointer;
+  position:relative;
+  color: #fff;
+  padding: 10px;
+}
+.link-container{
+  margin-top: "10px";
+  position: absolute;
+ top: 170px;
+ font-size: 16px;
+ color: #684D00 !important;
+ text-decoration: none;
 }

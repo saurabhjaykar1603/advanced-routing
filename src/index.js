@@ -18,8 +18,13 @@ const router = createBrowserRouter([
     element: <Post />,
   },
   {
-    path: "/read",
+    path: "/post/read/:id",
     element: <ReadPost />,
+  },
+  {
+    path: "*",
+    element: <h1 className="text-center mt-5 ">404 idt Found</h1>,
+    
   },
 ]);
 

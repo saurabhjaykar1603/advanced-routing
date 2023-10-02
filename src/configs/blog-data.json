@@ -1,28 +1,92 @@
 [
   {
-    "id ": 1,
-    "Title": " How to create first web page",
-    "Description": "This is my first blog",
-    "Content": "Create your first web page by planning content, writing HTML, saving as .html, and opening in a browser. Optionally, add CSS for style and publish on a web server.",
-    "author": "Sai",
-    "publisheDate": " august 2015 "
+    "id": 1,
+    "Title": "Smartphone",
+    "Description": "A feature-packed smartphone with a high-resolution display.",
+    "content": "This smartphone comes with a powerful processor, an impressive camera system, and a large, vibrant display. It offers a seamless mobile experience for both work and play.",
+    "price": 699.99,
+    "author": "John Doe",
+    "live_image_url": "https://source.unsplash.com/random/400x200/?smartphone"
   },
-
   {
-    "id ": 2,
-    "Title": " How to create first web page",
-    "Description": "This is my first blog",
-    "Content": "we will Learn console.log  and will use it for print  hello world",
-    "author": " Christian",
-    "publisheDate": " june 2015 "
+    "id": 2,
+    "Title": "Laptop",
+    "Description": "A sleek and powerful laptop for professionals and gamers.",
+    "content": "This laptop boasts a high-performance CPU, dedicated graphics, and a high-refresh-rate display. It's designed to handle demanding tasks, from work to gaming.",
+    "price": 1299.99,
+    "author": "Jane Smith",
+    "live_image_url": "https://source.unsplash.com/random/400x200/?laptop"
   },
-
   {
-    "id ": 3,
-    "Title": " How to Setups Routers in react ?",
-    "Description": "This is my third blog",
-    "Content": "To set up routing in a React application, use the react-router-dom library. First, install it, then wrap your app in a <Router>. Define routes with the <Route> component, specifying paths and components to display. Create separate components for each route. Use the Link component for navigation. Optionally, add a 404 Not Found route. This enables users to access different views based on the URL path and navigate between them easily.",
-    "author": "  Smith",
-    "publisheDate": "january 2015 "
+    "id": 3,
+    "Title": "Wireless Earbuds",
+    "Description": "Premium wireless earbuds with noise cancellation.",
+    "content": "Experience immersive audio with these earbuds. They offer noise cancellation, long battery life, and a comfortable fit for all-day use.",
+    "price": 199.99,
+    "author": "Alice Johnson",
+    "live_image_url": "https://source.unsplash.com/random/400x200/?earbuds"
+  },
+  {
+    "id": 4,
+    "Title": "4K Smart TV",
+    "Description": "A 4K Ultra HD smart TV for stunning visuals and streaming.",
+    "content": "Enjoy breathtaking visuals with this 4K TV. It comes with built-in streaming apps, voice control, and support for HDR content.",
+    "price": 899.99,
+    "author": "Robert Davis",
+    "live_image_url": "https://example.com/tv-image.jpg"
+  },
+  {
+    "id": 5,
+    "Title": "Fitness Tracker",
+    "Description": "Track your fitness goals with this versatile fitness tracker.",
+    "content": "Monitor your steps, heart rate, and sleep patterns with this fitness tracker. It also offers smartphone notifications and water resistance.",
+    "price": 79.99,
+    "author": "Emily Wilson",
+    "live_image_url": "https://source.unsplash.com/random/400x200/?fitness-tracker"
+  },
+  {
+    "id": 6,
+    "Title": "Digital Camera",
+    "Description": "A high-resolution digital camera for photography enthusiasts.",
+    "Content": "Capture stunning photos and videos with this digital camera. It features advanced shooting modes and a tilting touchscreen for creative control.",
+    "price": 599.99,
+    "author": "Michael Lee",
+    "live_image_url": "https://example.com/camera-image.jpg"
+  },
+  {
+    "id": 7,
+    "Title": "Coffee Maker",
+    "Description": "Brew your favorite coffee with this programmable coffee maker.",
+    "content": "Start your day right with a cup of freshly brewed coffee. This coffee maker allows you to customize brew strength and has a 24-hour programmable timer.",
+    "price": 49.99,
+    "author": "Sophia Brown",
+    "live_image_url":"https://source.unsplash.com/random/400x200/?coffe-maker"
+  },
+  {
+    "id": 8,
+    "Title": "Wireless Router",
+    "Description": "A high-speed wireless router for seamless internet connectivity.",
+    "content": "Ensure fast and reliable internet connections with this wireless router. It supports multiple devices and offers advanced security features.",
+    "price": 149.99,
+    "author": "David Miller",
+    "live_image_url": "https://example.com/router-image.jpg"
+  },
+  {
+    "id": 9,
+    "Title": "Gaming Console",
+    "Description": "Experience gaming like never before with this gaming console.",
+    "content": "Immerse yourself in gaming adventures with this powerful console. It supports high-resolution gaming, multiplayer online gaming, and a vast game library.",
+    "price": 399.99,
+    "author": "Sarah Clark",
+    "live_image_url": "https://source.unsplash.com/random/400x200/?gaming,console"
+  },
+  {
+    "id": 10,
+    "Title": "Smart Thermostat",
+    "Description": "Control your home's temperature and save energy with a smart thermostat.",
+    "content": "This smart thermostat allows you to adjust your home's temperature remotely. It also learns your preferences to optimize energy usage.",
+    "price": 129.99,
+    "author": "James Anderson",
+    "live_image_url": "https://source.unsplash.com/random/400x200/?smart,thermostat"
   }
 ]

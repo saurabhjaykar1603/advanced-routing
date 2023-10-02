@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+  
+    background-color: #BFA975!important;
+  }
+  
+  
+  
+.post-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
